@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Hearth (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Hearth (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
